@@ -1,0 +1,9 @@
+brandschutz-ingenieur/
+│
+├─ index.html
+├─ css/
+│   └─ styles.css
+├─ js/
+│   └─ main.js
+└─ assets/
+    └─ logo.svg (optional)
